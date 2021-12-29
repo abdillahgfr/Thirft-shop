@@ -1,4 +1,4 @@
-# thrift-shop
+# Thrift Shop
 
 -   implementasi function collaborative filtering
 -   pembuatan fitur product review setelah barang di terima
